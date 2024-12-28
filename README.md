@@ -1,0 +1,1 @@
+# RP2040-DTH11-humidity-temprature-sensor-without-checksum
